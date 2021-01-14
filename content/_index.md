@@ -8,4 +8,4 @@ menu:
     weight: 2
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Bienvenue sur mon site qui a pour vocation de publier de belles images et photos artistiques. Je vous invite à vous y promener et découvrir de nouveaux mondes.
